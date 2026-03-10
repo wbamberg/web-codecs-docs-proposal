@@ -330,10 +330,6 @@ section.has-light-background h6 {
   vertical-align: top;
 }
 
-.reveal img {
-  margin: var(--r-block-margin) 0;
-}
-
 /*********************************************
  * LINKS
  *********************************************/
